@@ -77,7 +77,6 @@ CollegeBot/
 │
 ├── app.py                # Main script to run the chatbot
 ├── README.md             # Project overview
-├── requirements.txt      # Python dependencies (optional)
 └── screenshot.png        # Interface preview (optional)
 ```
 
